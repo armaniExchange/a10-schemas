@@ -1,5 +1,5 @@
 {
-  "name": "a10-schemas",
+  "name": "@a10/a10-schemas",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
